@@ -5,9 +5,18 @@ Below are the screenshot of the app.
 
 # Screenshots
 
-## Login/Sign up
+## Sign up/Login
 
-<img src="https://user-images.githubusercontent.com/39546098/177978199-81640d4c-6aa8-4537-9ac9-52d0ae7e70c0.png" width="250" />       <img src="https://user-images.githubusercontent.com/39546098/177978201-5235d817-a282-43f8-9c50-8eda74ae2bd7.png" width="250" />       <img src="https://user-images.githubusercontent.com/39546098/177978205-c3856def-f9b3-46df-a0ce-8213f389ee3f.png" width="250" /> <br />      <img src="https://user-images.githubusercontent.com/39546098/177978208-738d513b-5189-49c1-870c-dc16b011998c.png" width="250" />       <img src="https://user-images.githubusercontent.com/39546098/177978211-e963b103-ee88-4ed2-8d87-920b79ae1724.png" width="250" />       <img src="https://user-images.githubusercontent.com/39546098/177978193-4f632288-e061-443e-b9fc-666d9fd5a302.png" width="250" /> <br /> <br />
+(The system will detect if one of the form is empty) <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/be986e7f-af64-40c0-b309-34edafdab7ae" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56eb7ba-533b-4edb-a0bd-bcc87f82ebcb" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d290c626-002a-4169-82cc-a22c05502570" width="250" /> <br /> <br />
+
+
+(The system will check whether the username and password is registered in the database or not) <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/779bf030-51df-4fe8-a498-6443add0b9a8" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/789e34e1-358f-44e2-8394-8a2b54d58e5c" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/28dc5a2b-dfa2-427c-b79d-1559de6927b1" width="250" /> <br /> <br />
 
 
 
