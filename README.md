@@ -42,8 +42,18 @@ Below are the screenshot of the app.
 <img src="https://user-images.githubusercontent.com/39546098/177983619-2bea70bf-c2c7-4350-b017-820e6531648b.jpg" width="250" /> <br /> <br />
 <img src="https://user-images.githubusercontent.com/39546098/177982919-9a240634-b656-4cf9-bdbf-eb9b3a64e54f.png" width="250" />
 <img src="https://user-images.githubusercontent.com/39546098/177983909-373f2af7-a786-4dbd-a9be-23e1ceb8f568.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177983917-b046f81d-cff3-49e7-b48a-05aeb3144d38.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177984080-d713818d-7af2-4658-94b5-fbe7dc7533c0.png" width="250" /> <br /> <br />
+<img src="https://user-images.githubusercontent.com/39546098/177983917-b046f81d-cff3-49e7-b48a-05aeb3144d38.jpg" width="250" /> <br /> <br />
+<img src="https://user-images.githubusercontent.com/39546098/177984080-d713818d-7af2-4658-94b5-fbe7dc7533c0.png" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/55ce6844-b4d4-4a6f-921f-40e8ab953e2e" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/0f29faab-17fe-406b-91a6-17c0a33f0492" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7b826575-0bc0-4346-9920-5d00cfebc7f5" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7af0d03d-da59-426e-8f5a-ef6931438883" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3a6d19b6-a1de-48ae-a3b4-d3738c51b786" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7cc2dc03-f7b2-4c46-99e1-401c34c59e15" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/cff8b761-547b-4967-84b3-6de50f355655" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/233b7182-8ede-4b9d-b7de-47cfb5d35abd" width="250" /> <br /> <br />
+
+
 
 ## Category
 <img src="https://user-images.githubusercontent.com/39546098/177984492-2cf40fe7-7eb2-4d64-a415-79799030d58f.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177984382-0dfc73c0-54d6-4224-a97b-5790f887a14a.png" width="250" />
