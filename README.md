@@ -112,27 +112,38 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9a8f6b82-c200-476f-a3e1-d6d31b6665c5" width="250" /> 
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b378a831-c57e-43de-9495-295ce77f74b4" width="250" />
 
+
+
+
 ## Make a New Order
-<img src="https://user-images.githubusercontent.com/39546098/177994387-7b9e2638-9a7f-42ec-864b-cab5235a807f.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177994659-aa5fafa8-0c06-4cde-b458-e806b195f1b0.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177994428-b45537fb-1004-452f-922d-86c3710261fc.png" width="250" /> <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/177994752-e275c527-51d3-4d4d-8d36-1f0b3dd6b96c.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177994816-2f3bacfc-f552-4a6b-8385-70c1b0830f33.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177995729-76f94208-fbfe-45a9-8e57-ed76f8177640.jpg" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2d09ad91-6d1d-45c4-855c-0a2a116be0f5" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/fcc6c18c-e9b2-4382-b5a7-57c495a61e62" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/0bba0817-2f28-4da3-92a4-4d51e8918c28" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/231edc52-39bc-4f1c-8f84-b2506ebfc7f8" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/34d1c655-cc44-4e93-952d-c4922b588fe2" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b9a73a34-63f2-4624-b819-268a3fd4e4a1" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/817e7e52-12ec-4311-88b4-75e453b2e2c5" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9b986236-980f-4925-a3e6-df20b8ec681e" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/463a16cb-7619-4066-9e5e-42c390d4d0f1" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/08eb5cff-aaff-48da-8677-29cfaab63153" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a88ce15a-2f08-4a61-b2e0-473de5f9ad9b" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b11a22c6-7ffe-4b55-ba85-9c0e8320c713" width="250" /> <br /> <br />
+
 
 #### If the customer is a member
-<img src="https://user-images.githubusercontent.com/39546098/177996130-80cccbe4-461e-4506-9a9e-0b37c72ca143.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178095458-9b8c31ca-451f-4526-a03f-52744baa2ba6.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095460-553b4176-41f2-40c2-b7b5-98c301069bf8.png" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/955900fd-98f9-4bb1-8cae-34d2b52f55e9" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/03767ac3-6c92-440a-a195-4f4c0986c731" width="250" />  <br /> <br />
 
 #### (The "Customer's Special Code" is automatically generated uniquely for every member)
-<img src="https://user-images.githubusercontent.com/39546098/178095464-0e33a9c6-ec8e-4877-ad0a-6f65662667da.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178095469-c286cd89-2c70-4936-844e-90ab27f9d1f2.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095472-2db381ac-fb1f-46b6-b41d-44399c91f93e.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178095480-163f81a4-80ec-4e8b-9122-6ada69b57511.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095482-b5e782c3-e295-4cf3-b16c-22afc51ba18b.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095562-ebc35573-7db4-4923-9bbb-7ab18cb6ad79.png" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f5ff46ff-84c1-4095-bd42-99953bd4e412" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a6ee3850-7f1c-48ac-8760-26418a905fd7" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/dc35d2a5-ca34-468f-9304-8af5408d516b" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3007bacc-c67f-4624-98e1-61ef5af4abe0" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4a161382-e57f-4b1e-a60e-e5697ca51943" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d1eb778f-97be-4f6f-8a69-83e0fb1efac1" width="250" />  <br /> <br />
+
 
 #### (Every member will get points every time they do a transaction. And they can use those points when purchasing orders)
-<img src="https://user-images.githubusercontent.com/39546098/178095566-158e8954-3002-457a-a446-9ce66037e434.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178095570-05994b48-5446-4a55-9d8a-e9bd1749773b.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095571-25b18f7e-da24-42b1-9990-d9a921b52e7d.png" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/105f2aca-5d5b-4717-8f86-9bdb21d63be1" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/af0424f1-6269-4f5d-890a-a28ab9e88161" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f75e8d88-cac8-40cd-a627-e8cb34e4dd2e" width="250" />  <br /> <br />
 
 #### If the customer is not a member
 <img src="https://user-images.githubusercontent.com/39546098/178095792-cc469251-d602-4d4e-89aa-39a8e5658a76.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178095794-e895c509-2b95-4a40-836d-751c7a0a8b54.png" width="250" />
