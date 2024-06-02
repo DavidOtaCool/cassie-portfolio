@@ -1,4 +1,4 @@
-# cassie-portfolio
+![Screenshot_1684861958](https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/01c130a7-f24d-4fa4-91d3-a17a1e4cc8b7)# cassie-portfolio
 Cassie is a mobile Point of Sales app for cafe/restaurant.
 
 Below are the screenshot of the app.
@@ -234,16 +234,16 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8f926b5f-edd3-4d94-9037-0d8d6560829d" width="250" /> 
 
 
-### Other common feature
-<img src="https://user-images.githubusercontent.com/39546098/178096739-cc7f703c-da46-4755-998b-12bac2dc0305.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178096743-2692648c-dd14-4e43-9ea6-54b5a1612a5c.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096745-b9154335-cc29-4981-b81c-36c2692ed911.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178096748-73cae48c-6073-4a58-ada9-72b413f45829.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096750-a0eb4424-8fd8-4bc1-b080-2d7b10b9f00c.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096752-e2437c33-e6fa-41c4-9c76-edc4fb83cc93.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178096759-d0ec24d6-4872-46dc-95b9-2489de98e974.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096761-730de0b3-927a-4a9c-ae32-600eb7e4b71a.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096762-8fe7bb35-9a02-49a6-be0a-7fe9fb24999b.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178096764-7ded5bb1-8e17-4337-806b-4ea15bf2aa8f.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096767-de947f15-0d51-42f0-9eee-a42a3063c7aa.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096770-f4409244-a04a-4b34-b0ce-0cd14f429400.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178096775-1989a2fe-0b73-4f88-b1e9-2aaa93567ab1.png" width="250" />
+
+### User Profile
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3840eafc-4733-4814-8c16-8fb7d4c9d22e" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2e1049bb-8121-4013-871d-9f865067f3b4" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/23e62b63-be62-46aa-9580-f00ef9368250" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/89e8849d-399f-4eff-9bc4-0f497c747f8e" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/587f5a81-d680-4ade-a48e-f5e1a72c411b" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/049879ca-f764-46ae-8acf-5d7615a97553" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ed586720-3643-49d8-811a-b6c1f0af628b" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a55a1ee9-1098-4ea0-8122-036ef34808a6" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2b568c5b-6257-46f8-8795-c475b73e2f01" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5d5dd617-2ca1-4061-af46-96a7d1fcec1d" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/bb38b00e-1337-4caa-8916-ce93eabbbf7b" width="250" />
+
