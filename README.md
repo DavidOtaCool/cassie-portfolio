@@ -99,7 +99,7 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/6825e3b0-5a54-4a76-ab37-13871b38892b" width="250" /> <br /> <br />
 
 If an Owner wanted to update their own account in "Cashier" section, they can only update their name and not their role. <br />
-This is to ensure that at least there is 1 Owner in the restaurant. <br />
+They also, of course, cannot fire themselves. This is to ensure that at least there is 1 Owner in the restaurant. <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e87bc9e5-bf4a-4865-ae26-4ce4b96b544b" width="250" /> 
 
 
