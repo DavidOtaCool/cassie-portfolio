@@ -249,8 +249,8 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 
 # Screenshots - Customer App
 Below are the screenshots for the App that made specifically for Customers.
-## Sign up/Login
 
+## Customer - Sign up/Login
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/951de602-b5b9-4226-900d-29ea85f44193" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d1ae99a2-74ae-4c58-8ad8-ce622a07d996" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/119e63e3-2681-4a23-937a-1092716fcf06" width="250" /> <br /> <br />
@@ -259,3 +259,27 @@ Below are the screenshots for the App that made specifically for Customers.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5294d3ed-e74a-46fa-aa99-6548652f2823" width="250" /> <br /> <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/23646a35-c8c4-4c40-aedd-0792aaa2d0b7" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b0b23d7b-b756-4521-b506-05eb2e92a18c" width="250" /> <br /> <br />
+
+
+
+## Customer - Self Order
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/702e8ab5-30ab-4e93-9fe3-49072c51b8e7" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4e8f1389-7ece-4bdb-8a3d-9c8d71b7d642" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/152d1817-5e85-45e1-b51a-f4fdf743cfee" width="250" /> <br /> <br />
+
+The number of table should be enter every time an order is made. <br />
+This feature was also added later in the development. <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e6bd77c0-85fd-4018-b82b-f5ac861aad22" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/0bb4c528-9a3d-4aea-8484-f76e1024ba32" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8623a4e2-4850-4a34-851a-c8094df3138d" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/df4299f9-54d7-4558-8eb6-22e3651668e1" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a1ebcc0e-757c-40b2-b307-0ffad3cd83dd" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9620cef3-3f72-4273-a3e5-2aa7273d6a73" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/c531721d-202c-4529-a97a-5a8f7c878cc2" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f02fdf31-8d0f-4036-8ac9-8b8b80cf70fe" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/375d3d7b-f2d5-4251-9307-7f28a1dd4464" width="250" /> <br /> <br />
+
+
+
+
+
