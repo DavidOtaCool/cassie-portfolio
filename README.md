@@ -208,6 +208,17 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3f7b095a-2ba5-4f5f-ba47-6aff3abb780a" width="250" />
 
 
+## Search Feature
+#### (This feature was added later in the development)
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2020d5ec-e7da-4aa4-875f-ed5a5f790fe9" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e41c2d7a-b998-435a-b3bf-86cd8e1dc5c9" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3b1aaae9-d45f-4c11-a087-9e86f2488a0b" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/c09de3c8-cf1f-4c25-8676-a2b390294c66" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/271057e4-7434-4374-9d17-2c2be878f1af" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9b0153e0-94b8-4a8f-af22-424703695638" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/29b51271-7368-4a0d-af4f-a3cf5c8e7838" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/90d46842-f5bf-48d2-a21d-0929b6d124d1" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2c7815a9-814c-46fd-9b96-ad94b27ece09" width="250" />  <br /> <br />
 
 
 ### Other common feature
