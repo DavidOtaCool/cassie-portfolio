@@ -32,12 +32,14 @@ Below are the screenshot of the app.
 
 
 ## Menu
-<img src="https://user-images.githubusercontent.com/39546098/177980595-b9f6cd72-db77-49d4-8c9b-fc1aeadc23c2.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177980779-3f644b87-9e08-4f0b-8baa-d6685161a26f.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177980861-8182e549-76e5-4ec8-9fcf-5e4b101e28df.png" width="250" /> <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/177982236-997191f5-43ad-426f-94ff-d5a51a323962.png" width="250" />
+<img src="https://user-images.githubusercontent.com/39546098/177980595-b9f6cd72-db77-49d4-8c9b-fc1aeadc23c2.png" width="250" /> <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f00d6491-7bc6-49d9-8082-3a6e9e7f5e8b" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2a3712df-381e-4005-a5f7-5cfa19a6c157" width="250" /> <br /> <br />
+
+<img src="https://user-images.githubusercontent.com/39546098/177980779-3f644b87-9e08-4f0b-8baa-d6685161a26f.png" width="250" /> <img src="https://user-images.githubusercontent.com/39546098/177980861-8182e549-76e5-4ec8-9fcf-5e4b101e28df.png" width="250" />
+<img src="https://user-images.githubusercontent.com/39546098/177982236-997191f5-43ad-426f-94ff-d5a51a323962.png" width="250" /> <br /> <br />
 <img src="https://user-images.githubusercontent.com/39546098/177982259-954fa1f4-0ea2-46cf-bf2b-6a99e240e83c.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177982269-c52bc52f-3d36-4371-aa45-d264149bbcab.png" width="250" /> <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/177982275-f890d8c0-eb53-469d-bbe9-e1c921c5edb0.png" width="250" /> 
+<img src="https://user-images.githubusercontent.com/39546098/177982269-c52bc52f-3d36-4371-aa45-d264149bbcab.png" width="250" /> 
+<img src="https://user-images.githubusercontent.com/39546098/177982275-f890d8c0-eb53-469d-bbe9-e1c921c5edb0.png" width="250" /> <br /> <br />
 <img src="https://user-images.githubusercontent.com/39546098/177982287-b913dfc5-3341-49aa-a767-037d4f8374a8.png" width="250" />
 <img src="https://user-images.githubusercontent.com/39546098/177983619-2bea70bf-c2c7-4350-b017-820e6531648b.jpg" width="250" /> <br /> <br />
 <img src="https://user-images.githubusercontent.com/39546098/177982919-9a240634-b656-4cf9-bdbf-eb9b3a64e54f.png" width="250" />
