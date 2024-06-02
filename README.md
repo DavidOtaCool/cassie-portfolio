@@ -294,6 +294,8 @@ They can also finish the order once that order is done. <br />
 
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e3630d35-a1ad-4253-aed4-8deaf4e5e3fd" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d3103dcc-1057-4b75-93fc-317816cc2b54" width="250" />
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a252e4a5-ccf8-49a4-a641-81a5464be1f0" width="250" /> <br /> <br />
-
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/39ddc9c5-0e80-4df7-9724-3c4b8449d9a6" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/50e3e9ef-a433-40f6-93fa-dd987ae45c21" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a252e4a5-ccf8-49a4-a641-81a5464be1f0" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/33f68a9b-6a2c-4428-addd-c94789960b1c" width="250" /> <br /> <br />
 
