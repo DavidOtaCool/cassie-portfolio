@@ -221,6 +221,19 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2c7815a9-814c-46fd-9b96-ad94b27ece09" width="250" />  <br /> <br />
 
 
+## Table Management Feature
+#### (This feature was added later in the development)
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ed5bb197-dc26-44f5-b6d3-7a6da99292c4" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e92fc7c9-f022-4ee5-bdfe-d1663aab05d5" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/fe0d554e-4c8b-4542-963b-60d1d48ddd8f" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/12c2f62b-679a-4478-9eca-f978160b39f6" width="250" />  
+
+
+## Graph Chart Report
+#### (This feature was added later in the development)
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8f926b5f-edd3-4d94-9037-0d8d6560829d" width="250" /> 
+
+
 ### Other common feature
 <img src="https://user-images.githubusercontent.com/39546098/178096739-cc7f703c-da46-4755-998b-12bac2dc0305.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178096743-2692648c-dd14-4e43-9ea6-54b5a1612a5c.png" width="250" />
 <img src="https://user-images.githubusercontent.com/39546098/178096745-b9154335-cc29-4981-b81c-36c2692ed911.png" width="250" />  <br /> <br />
