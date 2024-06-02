@@ -282,7 +282,7 @@ This feature was also added later in the development. <br />
 
 
 # Screenshots - Cheff App
-Below are the screenshots for the Cheff App. All incoming orders will be received in this app.
+Below are the screenshots for the Cheff App. All incoming orders will be received in this app. <br />
 The cheff App is developed later in the development. So all orders that are still in progress or done, will be updated in the Cashier App as well.
 ## Cheff - Dashboard
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/167be83f-dac6-48e7-bb53-bbecfb3df314" width="250" /> <br /> <br />
