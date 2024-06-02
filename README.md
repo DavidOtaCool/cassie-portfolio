@@ -1,4 +1,3 @@
-![Screenshot_1684861958](https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/01c130a7-f24d-4fa4-91d3-a17a1e4cc8b7)# cassie-portfolio
 Cassie is a mobile Point of Sales app for cafe/restaurant.
 
 Below are the screenshot of the app.
