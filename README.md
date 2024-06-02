@@ -2,7 +2,7 @@ Cassie is a mobile Point of Sales app for cafe/restaurant.
 
 Below are the screenshot of the app.
 
-# Screenshots
+# Screenshots - Cashier App
 
 ## Sign up/Login
 
@@ -233,7 +233,7 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8f926b5f-edd3-4d94-9037-0d8d6560829d" width="250" /> 
 
 
-### User Profile
+## User Profile
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3840eafc-4733-4814-8c16-8fb7d4c9d22e" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2e1049bb-8121-4013-871d-9f865067f3b4" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/23e62b63-be62-46aa-9580-f00ef9368250" width="250" />  <br /> <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/89e8849d-399f-4eff-9bc4-0f497c747f8e" width="250" />
@@ -245,3 +245,12 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5d5dd617-2ca1-4061-af46-96a7d1fcec1d" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7a756285-b4d1-4065-9cd3-5804b7136787" width="250" />
 
+
+# Screenshots - Customer App
+### Below are the screenshots for the App that made specifically for Customers.
+## Sign up/Login
+
+(The system will detect if one of the form is empty) <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/be986e7f-af64-40c0-b309-34edafdab7ae" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56eb7ba-533b-4edb-a0bd-bcc87f82ebcb" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d290c626-002a-4169-82cc-a22c05502570" width="250" /> <br /> <br />
