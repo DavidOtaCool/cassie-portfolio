@@ -12,7 +12,6 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56eb7ba-533b-4edb-a0bd-bcc87f82ebcb" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d290c626-002a-4169-82cc-a22c05502570" width="250" /> <br /> <br />
 
-
 (The system will check whether the username and password is registered in the database or not) <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/779bf030-51df-4fe8-a498-6443add0b9a8" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/789e34e1-358f-44e2-8394-8a2b54d58e5c" width="250" />
@@ -21,7 +20,13 @@ Below are the screenshot of the app.
 
 
 ## Dashboard
-<img src="https://user-images.githubusercontent.com/39546098/177978250-e47770a7-8501-471e-8ca5-1be64a237f10.png" width="250" /> <br /> <br />
+(We are currently login as cashier with Employee-level access. Meaning we are restricted to some features)<br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/730d25a6-410c-4d7d-9247-8e3864af8661" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/bb131ec7-f787-428e-9a45-be971245f956" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b307e099-cd40-4fe8-9918-4666827ff8e7" width="250" /><br /> <br />
+
+(So, from now on we will be login using an account that has Owner-level access)<br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/6414ab65-ea74-47ec-aaec-8536e84c160c" width="250" /><br /> <br />
 
 
 ## Menu
