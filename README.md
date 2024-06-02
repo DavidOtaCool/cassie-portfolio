@@ -281,5 +281,19 @@ This feature was also added later in the development. <br />
 
 
 
+# Screenshots - Cheff App
+Below are the screenshots for the Cheff App. All incoming orders will be received in this app.
+The cheff App is developed later in the development. So all orders that are still in progress or done, will be updated in the Cashier App as well.
+## Cheff - Dashboard
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/167be83f-dac6-48e7-bb53-bbecfb3df314" width="250" /> <br /> <br />
+
+
+## Cheff - Incoming Orders
+In this app, the cheff can see all orders that are coming in from both Cashier and Custome App. <br />
+They can also finish the order once that order is done. <br />
+
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e3630d35-a1ad-4253-aed4-8deaf4e5e3fd" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d3103dcc-1057-4b75-93fc-317816cc2b54" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a252e4a5-ccf8-49a4-a641-81a5464be1f0" width="250" /> <br /> <br />
 
 
