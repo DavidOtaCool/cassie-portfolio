@@ -299,3 +299,16 @@ They can also finish the order once that order is done. <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a252e4a5-ccf8-49a4-a641-81a5464be1f0" width="250" /> 
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/33f68a9b-6a2c-4428-addd-c94789960b1c" width="250" /> <br /> <br />
 
+
+## All apps - Logout
+For the logout part, all the apps will have the same process. <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/cc256f22-3659-43a4-98ae-c5a7529afaef" width="250" /> <br /> <br />
+
+The System will clear the current session token and redirect the user back to the Welcome Screen.
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/15ce1c80-022a-47ff-8d26-9c6a79cac2a2" /> <br /> <br />
+
+This is because every time a user login, the system will create a session token and store it in the local storage. <br />
+Meaning that even if the app is closed after several periods, if the user has not press "logout" yet, they won't have to login every time they open the app.
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b5144f35-fb80-4d4c-bd28-e34423cd18b8" /> <br /> <br />
+
+
