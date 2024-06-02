@@ -56,17 +56,26 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/233b7182-8ede-4b9d-b7de-47cfb5d35abd" width="250" /> <br /> <br />
 
 
-
 ## Category
-<img src="https://user-images.githubusercontent.com/39546098/177984492-2cf40fe7-7eb2-4d64-a415-79799030d58f.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177984382-0dfc73c0-54d6-4224-a97b-5790f887a14a.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177985737-df3bfdfe-a88b-4ba7-a252-2ffc804318dc.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177985821-c7c38296-6180-492c-b0db-55035cd2046c.png" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/edcdb6e3-07f7-47c8-bf68-f7b898994eb2" width="250" /> <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/fdce8b86-fc6f-4cfa-a947-d0fe31c960a2" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2d5a278b-347b-45ff-9980-a68d0a41d363" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/621fa4e3-f459-4266-9267-9eca5c655ad2" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3c242a44-2d53-4e94-9918-03c79c97cde0" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7d732064-f8f9-4063-a63e-77a7ffff58d9" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f291258a-14ac-4793-b2ea-1873a64f5c8d" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/06b4f367-e2ef-47ba-9eb0-d2efa2a98c63" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f4d476e7-52fa-431f-8a58-51a27024ef17" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/cc053c72-5ccc-485c-ae09-868231784124" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/df1917fc-2467-4baf-98c2-3ac9d2073de8" width="250" /> 
+
 
 ## Customer (List of users who already become *members* by registering using a separate app for customers)
-<img src="https://user-images.githubusercontent.com/39546098/177987198-dbf630dc-f3cf-4b20-bc28-441a44c1f09e.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177987313-681988f8-5282-4d3b-8de1-25fac5704c86.png" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/867071c3-9094-4c95-8124-07c6cdbb1ade" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/befa8be7-48a6-4661-b963-1beae449be89" width="250" /> <br /> <br />
+
 
 ## Cashier
-<img src="https://user-images.githubusercontent.com/39546098/177990605-297e1444-a130-4717-854f-13140b480ad0.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177990644-5e69b227-721f-4ecf-9408-6830c02b9475.png" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4cc3851a-8151-4155-af92-ab26927b9534" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177990644-5e69b227-721f-4ecf-9408-6830c02b9475.png" width="250" />
 <img src="https://user-images.githubusercontent.com/39546098/177991219-e5c610b4-94fa-4422-be0f-7a1f334c2f01.jpg" width="250" /> <br /> <br />
 <img src="https://user-images.githubusercontent.com/39546098/177991326-52cc36bf-2545-47bd-a756-013ff1ce8942.png" width="250" /> 
 <img src="https://user-images.githubusercontent.com/39546098/177991363-499bf4a8-7659-456f-bb64-068b886b41e8.png" width="250" /> 
