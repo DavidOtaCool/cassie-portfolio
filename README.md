@@ -234,7 +234,6 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8f926b5f-edd3-4d94-9037-0d8d6560829d" width="250" /> 
 
 
-
 ### User Profile
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3840eafc-4733-4814-8c16-8fb7d4c9d22e" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2e1049bb-8121-4013-871d-9f865067f3b4" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/23e62b63-be62-46aa-9580-f00ef9368250" width="250" />  <br /> <br />
@@ -245,5 +244,5 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a55a1ee9-1098-4ea0-8122-036ef34808a6" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2b568c5b-6257-46f8-8795-c475b73e2f01" width="250" />  <br /> <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5d5dd617-2ca1-4061-af46-96a7d1fcec1d" width="250" />
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/bb38b00e-1337-4caa-8916-ce93eabbbf7b" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7a756285-b4d1-4065-9cd3-5804b7136787" width="250" />
 
