@@ -245,12 +245,17 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5d5dd617-2ca1-4061-af46-96a7d1fcec1d" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7a756285-b4d1-4065-9cd3-5804b7136787" width="250" />
 
+<br /> <br />
 
 # Screenshots - Customer App
-### Below are the screenshots for the App that made specifically for Customers.
+Below are the screenshots for the App that made specifically for Customers.
 ## Sign up/Login
 
-(The system will detect if one of the form is empty) <br />
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/be986e7f-af64-40c0-b309-34edafdab7ae" width="250" />
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56eb7ba-533b-4edb-a0bd-bcc87f82ebcb" width="250" />
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d290c626-002a-4169-82cc-a22c05502570" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/951de602-b5b9-4226-900d-29ea85f44193" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d1ae99a2-74ae-4c58-8ad8-ce622a07d996" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/119e63e3-2681-4a23-937a-1092716fcf06" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b7c06882-3b00-4e7d-99e7-cf51e10ddc2a" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/50d0b552-4589-445a-94df-9f7ee44d1a24" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5294d3ed-e74a-46fa-aa99-6548652f2823" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/23646a35-c8c4-4c40-aedd-0792aaa2d0b7" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b0b23d7b-b756-4521-b506-05eb2e92a18c" width="250" /> <br /> <br />
