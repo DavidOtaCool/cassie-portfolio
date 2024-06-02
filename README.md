@@ -1,5 +1,5 @@
 # cassie-portfolio
-Cassie is a mobile Point of Sales app for cafe/coffee shop.
+Cassie is a mobile Point of Sales app for cafe/restaurant.
 
 Below are the screenshot of the app.
 
@@ -74,7 +74,6 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/befa8be7-48a6-4661-b963-1beae449be89" width="250" /> <br /> <br />
 
 
-
 ## Cashier
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4cc3851a-8151-4155-af92-ab26927b9534" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f2f5fb12-5fb6-4a15-a246-1197d859191c" width="250" />
@@ -85,6 +84,25 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56edfae-3477-4ac9-907f-40cc6a5aa458" width="250" /> 
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/84e935a0-f34c-410a-a75c-1e4bea0b0379" width="250" /> 
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/dfcf8db7-f6d0-4c01-aa7f-be3594d5b942" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/903ceee8-16a3-43a6-912a-4c9062b140af" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/44c94e8b-c4b9-402b-921f-6affb354c673" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3871c0a8-a0c7-4ce2-9426-678a3f8c3b4e" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ea0bfd15-4073-4141-ac61-0b6265df588b" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/33455ce2-42d7-4fad-b438-934d78fd85c3" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9b39bb93-3944-4886-96d3-7bb7ad413ecf" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/05a9b160-199c-426d-b1ce-405155a4444c" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4adb1fe4-396f-44da-98b4-0207371ddf6d" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/90ad3263-5785-41ef-af52-e397c4453f72" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/eb83c186-cd0a-4522-aafc-97cf0923225d" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9f37551e-68b3-4faa-93fb-e22d1a2670ae" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4a4ce33b-ca17-4ca5-9f7a-b530d4ebb652" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/6825e3b0-5a54-4a76-ab37-13871b38892b" width="250" /> <br /> <br />
+
+If an Owner wanted to Update their own account in "Cashier" section, they can only update their name and not their role. <br />
+This is to ensure that at least there are 1 Owner in the restaurant. <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e87bc9e5-bf4a-4865-ae26-4ce4b96b544b" width="250" /> 
+
+
 
 ## Order History
 <img src="https://user-images.githubusercontent.com/39546098/177992328-94c0fefc-9392-4855-b8bd-04ef2213e4c9.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177992350-1f52a684-d7da-4da8-b8e9-6286f908f842.png" width="250" /> 
