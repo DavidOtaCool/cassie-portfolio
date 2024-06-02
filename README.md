@@ -307,7 +307,7 @@ For the logout part, all the apps will have the same process. <br />
 The System will clear the current session token and redirect the user back to the Welcome Screen.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/15ce1c80-022a-47ff-8d26-9c6a79cac2a2" /> <br /> <br />
 
-This is because every time a user login, the system will create a session token and store it in the local storage. <br />
+This is because every time a user login, the system will create a session token and store it in the phone's local storage. <br />
 Meaning that even if the app is closed after several periods, if the user has not press "logout" yet, they won't have to login every time they open the app. <br />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b5144f35-fb80-4d4c-bd28-e34423cd18b8" /> <br /> <br />
 
