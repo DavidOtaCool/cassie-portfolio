@@ -113,8 +113,6 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b378a831-c57e-43de-9495-295ce77f74b4" width="250" />
 
 
-
-
 ## Make a New Order
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/2d09ad91-6d1d-45c4-855c-0a2a116be0f5" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/fcc6c18c-e9b2-4382-b5a7-57c495a61e62" width="250" /> 
@@ -141,15 +139,46 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d1eb778f-97be-4f6f-8a69-83e0fb1efac1" width="250" />  <br /> <br />
 
 
+
 #### (Every member will get points every time they do a transaction. And they can use those points when purchasing orders)
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/105f2aca-5d5b-4717-8f86-9bdb21d63be1" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/af0424f1-6269-4f5d-890a-a28ab9e88161" width="250" />
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f75e8d88-cac8-40cd-a627-e8cb34e4dd2e" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/527a77d6-5a97-4552-965f-4aba24ae233a" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7a5ee6ac-55c5-499b-b603-88165eba5bbb" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/385c6982-ca0e-48b6-8a1a-7e8ae600d014" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e2ba8047-e5a1-4c7d-914f-eb0cf07220d7" width="250" />
+
+
+#### If the member has no point to use
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d57eb395-7dd7-48a9-8b40-64d176734ac4" width="250" />  <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/08373cab-ec42-4c8b-81fe-42a9aa367c18" width="250" />  <br /> <br />
+
+
+#### (Customer's Unique Code can be check in the Customer app)
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ccf50710-2383-4e12-bd9e-33412bd13109" width="250" /> <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/145656c9-1f6b-4a69-8c2c-ea899767deba" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9dd96ebf-d674-4ebf-b4bb-943c4a48b7ab" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3705a8d0-964a-4c53-a099-f3967657a13c" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/1d28bdb1-5af4-47e6-937b-56630ef013c1" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/21b7779d-e208-44ce-bc01-8bee97a99db5" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/0e7be8bb-5b4f-4763-88a5-e1455ad92013" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/61914bf7-d439-43e3-bc13-bd7ff7bc1219" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/c4df21ba-3657-49ca-b177-1376d226a772" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4f3fe0df-a91a-4020-ae0a-90ffd0fd729e" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/e620d84a-4066-413c-9ccd-8eccb1881e06" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/424d8908-60b9-41f1-8f3b-db096d0d06f2" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4e60a884-57a8-4058-8c4b-683ed889dc9c" width="250" /> <br /> <br />
+
 
 #### If the customer is not a member
-<img src="https://user-images.githubusercontent.com/39546098/178095792-cc469251-d602-4d4e-89aa-39a8e5658a76.png" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178095794-e895c509-2b95-4a40-836d-751c7a0a8b54.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095797-2a897d60-757a-4ff4-af13-cd0a73df07e6.png" width="250" />  <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/178095932-ac33b774-9ccd-42c7-b78a-a368ff2b30e6.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178095938-6b5432a9-bf1d-4a03-98b1-31f75d6f03bb.png" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8b18867c-198c-43c9-ba74-7ab277db6746" width="250" />   <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a869f6f3-d27f-43e5-b3f3-70f7deba5683" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/90a14cac-e3ff-49c0-9b16-94a7acc054bf" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/6d1f9a71-2fcf-4893-8ccd-b2bd7f069eab" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9f19c2c6-12f7-4319-8520-2aa68e54c1c5" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/54908fd2-4faa-46ad-a7ac-79000e8a1f7a" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/737c2666-2df9-4f98-a4f4-e97c7f9b430d" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3d4985c1-9049-407e-bc7d-a42f106084f0" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/42d47d69-e506-4bfc-81f2-6df3a3cea7dd" width="250" />  <br /> <br />
+
+
 
 ## Report
 <img src="https://user-images.githubusercontent.com/39546098/178096493-5d21cc3a-85c6-439e-b2a8-492f3958e293.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178096022-f0cda81a-ff5f-4790-89ad-8f25bc28fc45.png" width="250" />
