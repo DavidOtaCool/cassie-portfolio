@@ -181,8 +181,34 @@ They also, of course, cannot fire themselves. This is to ensure that at least th
 
 
 ## Report
-<img src="https://user-images.githubusercontent.com/39546098/178096493-5d21cc3a-85c6-439e-b2a8-492f3958e293.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178096022-f0cda81a-ff5f-4790-89ad-8f25bc28fc45.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/178096512-46e621fd-2b65-4118-82ea-8950bc8ab947.png" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d24440ca-0e5b-495e-8cec-4ab2d4ca6534" width="250" />  <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/5e75bc0d-884b-417d-839d-0abaae8694ca" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/16f65b2c-eee6-4d7f-9ba0-e3ce3a2cb014" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/09f38ec8-b99e-4e06-b1dd-7948d2212154" width="250" />  <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/c3a7318f-408b-4f3c-ad26-12b0cea19eec" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/a4e7a3fc-c74c-4e43-b6a1-7ad56790c146" width="250" />  <br /> <br />
+
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/90d26388-ec1d-4f88-b300-9958d26b08ac" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4967c55c-3b19-4fb2-ad26-add467589b44" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ac39d7a4-d087-46e1-9e51-514dd5b3b68f" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/732d8dba-e92e-467e-aa9a-f71a78cca774" width="250" /> <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/d8c8170e-c23c-4546-b3c7-a28eb49b010e" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f9b24e4e-e970-48a2-abdd-697f5110feb1" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4483b2c6-3c93-4feb-bb3b-6368e9e1c6b9" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/96864f68-1a9c-4d13-9325-26669db48653" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/be919a2f-a036-4b4e-9a50-2eef02bd3597" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/7fb91b23-c7ab-481e-a7f6-80d0adffc1ca" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/372295ab-0fac-4ea1-ad66-cf41d4a3b834" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/1d5baa16-984b-4f9d-aed5-b536a56f7cf6" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8971a057-5bba-4f4a-9bc1-3d352955480e" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/245cf09d-8b7a-4845-ac40-d4704db5919c" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ba8840d4-b9af-489a-b212-21988a6aecc1" width="250" />  <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/07b52f0f-0dc2-4f5e-a68d-00ee2c6203f4" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/dd30d1d2-5080-43e1-b4d8-849854fddf49" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/8e579f43-9fbd-4212-abfa-4cb2996a8d4e" width="250" />  <br /> <br />
+
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/ef9b98c3-5616-497e-8534-5cb72729538d" width="250" />  
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/3f7b095a-2ba5-4f5f-ba47-6aff3abb780a" width="250" />
+
+
+
 
 ### Other common feature
 <img src="https://user-images.githubusercontent.com/39546098/178096739-cc7f703c-da46-4755-998b-12bac2dc0305.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/178096743-2692648c-dd14-4e43-9ea6-54b5a1612a5c.png" width="250" />
