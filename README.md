@@ -74,15 +74,17 @@ Below are the screenshot of the app.
 <img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/befa8be7-48a6-4661-b963-1beae449be89" width="250" /> <br /> <br />
 
 
+
 ## Cashier
-<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4cc3851a-8151-4155-af92-ab26927b9534" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177990644-5e69b227-721f-4ecf-9408-6830c02b9475.png" width="250" />
-<img src="https://user-images.githubusercontent.com/39546098/177991219-e5c610b4-94fa-4422-be0f-7a1f334c2f01.jpg" width="250" /> <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/177991326-52cc36bf-2545-47bd-a756-013ff1ce8942.png" width="250" /> 
-<img src="https://user-images.githubusercontent.com/39546098/177991363-499bf4a8-7659-456f-bb64-068b886b41e8.png" width="250" /> 
-<img src="https://user-images.githubusercontent.com/39546098/177991377-dbae4148-3110-4431-a0d4-06f8aa84fc45.png" width="250" /> <br /> <br />
-<img src="https://user-images.githubusercontent.com/39546098/177991463-661ae700-65bf-4bce-b275-ac74918c03e2.png" width="250" /> 
-<img src="https://user-images.githubusercontent.com/39546098/177991752-7ef92160-408b-4237-9471-32653b73c597.png" width="250" /> 
-<img src="https://user-images.githubusercontent.com/39546098/177991768-81cb3702-96ca-4f91-a5d4-64ddb93969dd.png" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/4cc3851a-8151-4155-af92-ab26927b9534" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f2f5fb12-5fb6-4a15-a246-1197d859191c" width="250" />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/37be11d8-dbe9-4559-9c7a-dcf5b2e72724" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/b83d0ff6-9fe6-49e7-8e4b-05dd5952b83d" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9850f924-5287-4fa1-8338-fcc9d1506ed6" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/9588305e-946e-4c9b-b50d-3b338a189e6d" width="250" /> <br /> <br />
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/f56edfae-3477-4ac9-907f-40cc6a5aa458" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/84e935a0-f34c-410a-a75c-1e4bea0b0379" width="250" /> 
+<img src="https://github.com/DavidOtaCool/cassie-portfolio/assets/39546098/dfcf8db7-f6d0-4c01-aa7f-be3594d5b942" width="250" /> <br /> <br />
 
 ## Order History
 <img src="https://user-images.githubusercontent.com/39546098/177992328-94c0fefc-9392-4855-b8bd-04ef2213e4c9.jpg" width="250" />   <img src="https://user-images.githubusercontent.com/39546098/177992350-1f52a684-d7da-4da8-b8e9-6286f908f842.png" width="250" /> 
